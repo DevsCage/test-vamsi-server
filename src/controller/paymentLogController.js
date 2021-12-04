@@ -1,5 +1,5 @@
 const PaymentLog = require("../models/paymentLogsModel");
-const Student = require("../models/StudentModel");
+const Student = require("../models/studentModel");
 const mongoose = require("mongoose");
 
 // add payment log model

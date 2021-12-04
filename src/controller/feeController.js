@@ -1,6 +1,6 @@
 const Fee = require("../models/feeModel");
 const PaymentLog = require("../models/paymentLogsModel.js");
-const Student = require("../models/StudentModel");
+const Student = require("../models/studentModel");
 exports.addFee = async (req, res) => {
   const {
     stud_reg_num,

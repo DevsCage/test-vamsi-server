@@ -1,4 +1,4 @@
-const Student = require("../models/StudentModel");
+const Student = require("../models/studentModel");
 const userModel = require("../models/authStudentModel");
 const bcrypt = require("bcrypt");
 const path = require("path");
